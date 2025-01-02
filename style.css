@@ -2,6 +2,7 @@
     margin: 0em;
     padding: 0em;
     box-sizing: border-box;
+    
 }
 
 .wrapper{
@@ -12,6 +13,7 @@
     align-items:center;
     justify-content: center;
     flex-direction: column;
+    font-family: sans-serif;
 }
 
 .CounterHeading{
@@ -49,6 +51,8 @@
     padding: 0 10px 0 5px;
     border-right: 0.1rem solid #bfbfbf;
 }
+
+
 .container1 #increment{
     padding: 0 5px 0 10px;
     border-left: 0.1rem solid #bfbfbf;
